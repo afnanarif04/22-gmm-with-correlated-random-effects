@@ -1,4 +1,4 @@
-# Replication Package — Classifier CRE-GMM for Dynamic Panels
+# CRE-GMM for Dynamic Panels
 
 ## About This Research
 
